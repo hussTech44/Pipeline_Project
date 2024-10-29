@@ -1,0 +1,21 @@
+{
+  "name": "pipeline_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussTech44/Pipeline_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussTech44/Pipeline_Project/issues"
+  },
+  "homepage": "https://github.com/hussTech44/Pipeline_Project#readme"
+}
